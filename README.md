@@ -1,37 +1,44 @@
+# 👨‍💻 Mohamed Sayed
 
-### Hi there 👋
+**Software Engineer | Computer Science Student at Fayoum University**  
+I am passionate about software development and aspire to contribute to impactful projects that benefit people worldwide. With a solid foundation in computer science, I am constantly learning and improving my skills to stay updated with the latest technologies.
 
-I'm a software engineer team leader at [Mega Trust](https://megatrust.net), Google Developer Expert ([GDE](https://developers.google.com/community/experts/directory/profile/profile-tarek-alabd)) for Flutter & Dart, and Subject-Matter Expert at [Variiance](https://variiance.com).
+---
 
+## 🌟 About Me
+- 🎓 **Education**: Pursuing a degree in Computer Science at Fayoum University.  
+- 💡 **Goal**: To be useful to people and make a positive impact through technology.  
+- 💻 **Skills**:  
+  - Programming: **C++, HTML, CSS**  
+  - Version Control: **Git, GitHub**  
+  - Web Development: **HTML, CSS**  
 
-- 🔭 I’m currently working on improving my skills as a software engineer.
-- 🌱 I’m currently curious about mobile and backend development.
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about [Flutter](https://flutter.dev), [Dart](https://dart.dev), [Firebase](https://firebase.google.com/), [C++](https://www.cplusplus.com/), [Python](https://www.python.org/).
-- 📫 How to reach me:
+---
 
-	[!["Follow me on Twitter"](https://img.shields.io/twitter/follow/tarekalabd?label=Follow%20me)](https://twitter.com/tarekalabd)
-  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/tarekalabd/)
-  [!["YouTube"](https://img.shields.io/youtube/channel/subscribers/UCMQeTJFwpvbeXjLPrd9_eQw?label=TarekAlabd&style=social)](https://youtube.com/TarekAlabd)
-  [!["Medium"](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@tarekalabd)
-  [!["My Website"](https://img.shields.io/badge/Website-tarekalabd.com-orange)](https://tarekalabd.com)
-  [!["My Blog"](https://img.shields.io/badge/Blog-blog.tarekalabd.net-orange)](https://blog.tarekalabd.net)
+## 📫 Contact Me
+- 📧 **Email**: [ggyyaa6543@gmail.com](mailto:ggyyaa6543@gmail.com)  
+- 🌐 **Website**: [YourWebsite.com](#)  
+- ✍️ **Blog**: [YourBlog.com](#)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sayed-439a54347)  
+- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61568711669833&mibextid=rS40aB7S9Ucbxw6v)  
+- [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your-handle)  
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-handle/)  
 
-  
-### Some Projects
-- **TaskedIn Schooling** ([Android](https://play.google.com/store/apps/details?id=net.megatrust.megaschoolingprod)) ([IOS](https://apps.apple.com/app/id1610527915))
-- **Sanad** ([Android](https://play.google.com/store/apps/details?id=net.megatrust.donationsApp)) ([IOS](https://apps.apple.com/us/app/sanad-%D8%B3%D9%86%D8%AF/id1623141495))
-- **Mega Books** ([Android](https://play.google.com/store/apps/details?id=net.megatrust.megabooks)) ([IOS](https://apps.apple.com/us/app/mega-books/id1596646061))
-- **Mega Trust Jobs** ([Android](https://play.google.com/store/apps/details?id=co.megatrust.jobs)) ([IOS](https://apps.apple.com/us/app/megatrust-jobs/id1547002894))
-- **Mega Trust Employees** ([Android](https://play.google.com/store/apps/details?id=net.megatrust.employee))
-- **Elwaha Delivery** ([Android](https://play.google.com/store/apps/details?id=com.kaspr.elwahadelivery2&hl=en_US&gl=US))
+---
 
-### Github Stats
-[![Tarek's Github Stats](https://github-readme-stats.vercel.app/api?username=tarekalabd&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/tarekalabd)
+## 🌱 What I'm Working On
+- Exploring advanced algorithms and data structures.  
+- Developing web and mobile applications to solve real-world problems.  
+- Collaborating on open-source projects.  
 
-### Want to support?
- 
-Do you find my work to be of a value for you?
-You can support me, buy me a **Book**, or a **Coffee**.
+---
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tarekalabd)
+## 💼 Portfolio
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-profile)  
+
+---
+
+## 🚀 Hobbies and Interests
+- Solving coding challenges and participating in hackathons.  
+- Learning about artificial intelligence and machine learning.  
+- Sharing knowledge and helping others in the tech community.  
