@@ -1,44 +1,76 @@
-# 👨‍💻 Mohamed Sayed
 
-**Software Engineer | Computer Science Student at Fayoum University**  
-I am passionate about software development and aspire to contribute to impactful projects that benefit people worldwide. With a solid foundation in computer science, I am constantly learning and improving my skills to stay updated with the latest technologies.
 
----
+<h1 align="left">Hi 👋! My name is Mohamed Sayed 👨‍💻.</h1>
 
-## 🌟 About Me
-- 🎓 **Education**: Pursuing a degree in Computer Science at Fayoum University.  
-- 💡 **Goal**: To be useful to people and make a positive impact through technology.  
-- 💻 **Skills**:  
-  - Programming: **C++, HTML, CSS**  
-  - Version Control: **Git, GitHub**  
-  - Web Development: **HTML, CSS**  
+###
 
----
+<h2 align="left">I'm software engineer as a front-end dev</h2>
 
-## 📫 Contact Me
-- 📧 **Email**: [ggyyaa6543@gmail.com](mailto:ggyyaa6543@gmail.com)  
-- 🌐 **Website**: [YourWebsite.com](#)  
-- ✍️ **Blog**: [YourBlog.com](#)  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sayed-439a54347)  
-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61568711669833&mibextid=rS40aB7S9Ucbxw6v)  
-- [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your-handle)  
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-handle/)  
+###
 
----
+<h3 align="left">Languages</h3>
 
-## 🌱 What I'm Working On
-- Exploring advanced algorithms and data structures.  
-- Developing web and mobile applications to solve real-world problems.  
-- Collaborating on open-source projects.  
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
 
-## 💼 Portfolio
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamedsayed101)  
+###
 
----
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NiZ2I0Z2xlbThreHVvOHJzeWE4cGliemc5eXdvbWthODQ0eDN6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 
-## 🚀 Hobbies and Interests
-- Solving coding challenges and participating in hackathons.  
-- Learning about artificial intelligence and machine learning.  
-- Sharing knowledge and helping others in the tech community.  
+###
+
+<h3 align="left">Contact me</h3>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  <a href="ggyyaa6543@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-sayed-439a54347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61568711669833&mibextid=rS40aB7S9Ucbxw6v" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ms36551" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="47" height="35" alt="hackerrank logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<p align="left"></p>
+
+###
+
+<br clear="both">
+
+<p align="left"></p>
+
+###
+
+<br clear="both">
+
+<p align="left"></p>
+
+###
