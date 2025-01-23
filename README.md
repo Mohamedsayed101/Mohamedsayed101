@@ -34,7 +34,7 @@ I am passionate about software development and aspire to contribute to impactful
 ---
 
 ## 💼 Portfolio
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamedsayed101)  
 
 ---
 
