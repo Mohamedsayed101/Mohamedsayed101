@@ -1,6 +1,4 @@
-
-
-<h1 align="left">Hi 👋! My name is Mohamed Sayed 👨‍💻.</h1>
+<h1 align="left">Hi 👋! My name is Mohamed Sayed</h1>
 
 ###
 
