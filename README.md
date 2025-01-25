@@ -85,5 +85,5 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mohamedsayed101&theme=radical" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsayed101&layout=compact&theme=radical" alt="Top Languages" />
 </div>
