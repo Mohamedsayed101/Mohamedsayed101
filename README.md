@@ -58,7 +58,7 @@
 <h3 align="left">Contributions & Activity</h3>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsayed101&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedsayed101&theme=radical" alt="Contribution Graph" />
 </div>
 
 <style>
