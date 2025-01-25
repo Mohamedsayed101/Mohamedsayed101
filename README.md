@@ -1,82 +1,18 @@
-<h1 align="left">Hi 👋! My name is Mohamed Sayed</h1>
 
-###
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61568711669833&mibextid=rS40aB7S9Ucbxw6v) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-sayed-439a54347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
-<h2 align="left">I'm a Software Engineer specializing in Front-End Development</h2>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mohamedsayed101&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mohamedsayed101&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsayed101&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mohamedsayed101&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Languages & Tools</h3>
+---
+[![](https://visitcount.itsvg.in/api?id=Mohamedsayed101&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-</div>
-
-###
-
-<h3 align="left">Contact Me</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="YouTube logo" />
-  </a>
-  <a href="https://www.instagram.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="Instagram logo" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="Discord logo" />
-  </a>
-  <a href="mailto:ggyyaa6543@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="Gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-sayed-439a54347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="LinkedIn logo" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61568711669833&mibextid=rS40aB7S9Ucbxw6v" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="Facebook logo" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/Mohamedsayed101" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="47" height="35" alt="HackerRank logo" />
-  </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="Twitter logo" />
-  </a>
-</div>
-
-###
-
-<h3 align="left">GitHub Stats</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedsayed101&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedsayed101&theme=radical" alt="Contribution Graph" />
-</div>
-
-###
-
-<h3 align="left">Top Languages</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsayed101&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
