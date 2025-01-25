@@ -68,8 +68,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ms36551&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ms36551&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedsayed101&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedsayed101&theme=radical" alt="GitHub Streak" />
 </div>
 
 ###
@@ -79,7 +79,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms36551&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsayed101&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ###
@@ -89,5 +89,5 @@
 ###
 
 <div align="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ms36551&theme=radical" alt="Contribution Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Mohamedsayed101&theme=radical" alt="Contribution Graph" />
 </div>
