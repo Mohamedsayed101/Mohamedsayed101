@@ -26,10 +26,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NiZ2I0Z2xlbThreHVvOHJzeWE4cGliemc5eXdvbWthODQ0eDN6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
-
-###
-
 <h3 align="left">Contact Me</h3>
 
 ###
@@ -53,7 +49,7 @@
   <a href="https://www.facebook.com/profile.php?id=61568711669833&mibextid=rS40aB7S9Ucbxw6v" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="Facebook logo" />
   </a>
-  <a href="https://www.hackerrank.com/profile/ms36551" target="_blank">
+  <a href="https://www.hackerrank.com/profile/Mohamedsayed101" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="47" height="35" alt="HackerRank logo" />
   </a>
   <a href="https://twitter.com" target="_blank">
@@ -89,5 +85,5 @@
 ###
 
 <div align="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Mohamedsayed101&theme=radical" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mohamedsayed101&theme=radical" alt="Contribution Graph" />
 </div>
