@@ -65,7 +65,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamedsayed101&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedsayed101&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedsayed101&theme=radical" alt="Contribution Graph" />
 </div>
 
 ###
