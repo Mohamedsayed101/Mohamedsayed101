@@ -78,10 +78,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsayed101&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-###
-
-<h3 align="left">Contributions & Activity</h3>
-
-###
 
 
