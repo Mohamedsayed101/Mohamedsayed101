@@ -24,10 +24,11 @@
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
-## 🚀 My GitHub Insights:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamedsayed101&theme=radical&show_icons=true)]()
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohamedsayed101&theme=radical)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsayed101&theme=radical&layout=compact)]()
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mohamedsayed101&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mohamedsayed101&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsayed101&theme=dark&hide_border=false&layout=compact)
+
 
 
 --- 
